@@ -8,8 +8,8 @@
 
 The journal adopts the appearance of academic proceedings while allowing flexibility in rigor, intent, and completeness.
 
-
-本期刊的宗旨是：有格调！
+**本期刊的宗旨是：有格调！
+**
 ---
 
 ## Aims & Scope
