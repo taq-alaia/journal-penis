@@ -1,6 +1,6 @@
 
 # J. PENIS 格调  
-**Journal of Proceedings of Engineering and Natural Information Systems**
+**Proceedings of Engineering, Networked Information, and Social**
 
 ---
 
