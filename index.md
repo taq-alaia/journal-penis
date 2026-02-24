@@ -1,54 +1,78 @@
+# J. PENIS 格调
 
-# J. PENIS 格调  
-**Proceedings of Engineering, Networked Information, and Social**
+## Proceedings of Engineering, Natural, and Interdisciplinary Studies
 
 ---
 
-**J. PENIS 格调** is an experimental, open-access online publication that presents engineering and information-related ideas in a formally structured yet playfully unconventional manner.
+**J. PENIS 格调** is an experimental, open-access proceedings journal  
+dedicated to the formal presentation of ideas across **engineering**,  
+**natural sciences**, and **interdisciplinary studies**.
 
-The journal adopts the appearance of academic proceedings while allowing flexibility in rigor, intent, and completeness.
+This journal exists not to optimize, but to **present**.  
+Not to conclude, but to **proceed**.
 
-本期刊的宗旨是：有格调！
 ---
 
-## Aims & Scope
+## Scope
 
-The journal covers, but is not limited to:
+J. PENIS 格调 welcomes submissions including, but not limited to:
 
-- Engineering concepts and technical thought experiments  
-- Natural and applied information systems  
-- Interdisciplinary and exploratory studies  
-- Structured parody of academic writing  
-- Proceedings-style presentations without mandatory conclusions  
+- Engineering and Applied Systems  
+- Natural and Physical Sciences  
+- Social Sciences and Communication Studies  
+- Media, Networks, and Information Systems  
+- Interdisciplinary, Marginal, or Hard-to-Classify Works  
+- Conceptual Papers, Notes, Proceedings, and Fragments  
+
+If a work does not fit comfortably anywhere else,  
+it may already belong here.
+
+---
+
+## Editorial Principle
+
+This journal operates on a single editorial question:
+
+> **Is there 格调?**
+
+Clarity is optional.  
+Originality is encouraged.  
+Form is mandatory.
 
 ---
 
 ## Publication Model
 
-- **Format:** Online-only  
-- **Access:** Open Access  
-- **Fees:** None (non-profit)  
-- **Frequency:** Irregular  
-- **Language:** English / Chinese  
+- Open Access  
+- Non-commercial  
+- Experimental  
+- Irregular by design  
 
----
-
-## Disclaimer
-
-This publication is a **parody and experimental project**.  
-It is **not intended for academic evaluation, accreditation, or professional use**.
+All content is published for presentation,  
+not for evaluation, ranking, or performance.
 
 ---
 
 ## Navigation
 
-- [About](about)
-- [Editorial Board](editorial)
-- [Policies](policies)
-- [Issues](issues)
-- [Submission](submission)
+- [About](about.html)  
+- [Editorial Board](editorial.html)  
+- Policies *(coming soon)*  
+- Issues *(forthcoming)*  
 
 ---
 
-© 2026 J. PENIS 格调  
-An independent, non-commercial publication.
+## Statement
+
+J. PENIS 格调 is a project of structure, tone, and composure.  
+It takes the format of academic publishing seriously,  
+even when the content refuses to behave.
+
+Proceedings before results.  
+Form before function.  
+Style before explanation.
+
+---
+
+*J. PENIS 格调*  
+Proceedings of Engineering, Natural, and Interdisciplinary Studies
