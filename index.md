@@ -7,7 +7,7 @@
 **J. PENIS 格调** is an experimental, open-access online publication that presents engineering and information-related ideas in a formally structured yet playfully unconventional manner.
 
 The journal adopts the appearance of academic proceedings while allowing flexibility in rigor, intent, and completeness.
-
+本期刊的宗旨是：有格调！
 ---
 
 ## Aims & Scope
