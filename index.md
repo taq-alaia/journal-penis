@@ -1,7 +1,6 @@
 # 🏛 J. PENIS 格调
 
-<img src="https://via.placeholder.com/150x150?text=J.PENIS+Logo" alt="J. PENIS Logo" width="150" style="display:block;margin:auto;border-radius:12px;">
-
+<img src="assets/logo.png" alt="J. PENIS Logo" width="150" style="display:block;margin:auto;border-radius:12px;">
 <div style="background-color:#fdf6e3;padding:15px;border-radius:8px;margin-top:15px;">
 > **主旨声明**：本期刊致力于**格调的彰显**，将形式的优雅置于内容的功利之上，以学术姿态呈现荒诞与实验。
 </div>
