@@ -2,7 +2,8 @@
 
 <img src="assets/logo.png" alt="J. PENIS Logo" width="150" style="display:block;margin:auto;border-radius:12px;">
 <div style="background-color:#fdf6e3;padding:15px;border-radius:8px;margin-top:15px;">
-> **主旨声明**：本期刊致力于**格调的彰显**，将形式的优雅置于内容的功利之上，以学术姿态呈现荒诞与实验。
+主旨声明：本期刊致力于**格调的彰显**
+        将形式的优雅置于内容的功利之上，以学术姿态呈现荒诞与实验。
 </div>
 
 <h2 style="background-color:#e0f7fa;padding:10px;border-radius:6px;margin-top:20px;">Journal of Principles, Experimental, Natural, and Interdisciplinary Studies</h2>
