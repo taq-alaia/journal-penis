@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Articles in Press | J. PENIS 格调</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="header">
+
+<div class="header-title">
+Journal of Principles, Experimental, Natural, and Interdisciplinary Studies
+</div>
+
+<div class="header-subtitle">
+Articles in Press
+</div>
+
+<div class="nav">
+<a href="index.html">Home</a>
+<a href="issues.html">Articles</a>
+<a href="submit.html">Submit</a>
+<a href="editorial.html">Editorial Board</a>
+<a href="about.html">About</a>
+</div>
+
+</div>
+
+
+<div class="container">
+
+<h1>Articles</h1>
+
+<div style="
+border:1px solid #ddd;
+padding:30px;
+border-radius:6px;
+background-color:#fafafa;
+margin-top:20px;
+">
+
+<p style="font-size:18px;color:#555;margin-bottom:20px;">
+No articles have been accepted yet.
+</p>
+
+<p>
+If you wish to submit, please go to the submission page.
+</p>
+
+<a href="submit.html" class="button">
+Go to Submission Page
+</a>
+
+</div>
+
+</div>
+
+
+<div class="footer">
+
+© 2026 J. PENIS 格调
+
+</div>
+
+</body>
+</html>
