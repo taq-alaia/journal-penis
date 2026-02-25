@@ -44,7 +44,7 @@ On the Formal Structure of Tone Without Function
 </a>
 </h3>
 
-Authors: TAQ
+Authors: 为人民服务的善良编辑Alaia
 
 <br><br>
 
